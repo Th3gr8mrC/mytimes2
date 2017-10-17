@@ -120,8 +120,7 @@ header nav {
 }
 
 .lead-story .image-content {
-  background-image: url(
-https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
+  background-image: url(images/img-story-main.png);
   width: 630px;
   margin-top: 0;
   font-size: 40px;
@@ -133,12 +132,11 @@ https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story
 }
 
 .fall-cancelled.image-content {
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);
+  background-image: url(images/img-story-2.png);
 }
 
 .pop-culture.image-content {
-  background-image: url(
-https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);
+  background-image: url(images/img-story-3.png);
 }
 
 
@@ -149,7 +147,7 @@ https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story
 }
 
 .cat-ceo.image-content {
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png);
+  background-image: url(images/img-story-1.png);
 }
 
 /* Third News Column */
